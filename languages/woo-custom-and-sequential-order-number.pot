@@ -1,0 +1,240 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Custom and Sequential Order Number PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-20 05:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: woo-custom-and-sequential-order-number"
+
+#: includes/views/wcson-order-number.php:44
+#: includes/views/wcson-order-number.php:55
+#: includes/views/wcson-order-number.php:83
+#: includes/views/wcson-order-number.php:89
+#: includes/views/wcson-order-number.php:98
+#: includes/views/wcson-order-number.php:107
+#: includes/views/wcson-order-number.php:186
+#: includes/views/wcson-order-number.php:197
+#: includes/views/wcson-order-number.php:227
+#: includes/views/wcson-order-number.php:234
+#: includes/views/wcson-order-number.php:243
+#: includes/views/wcson-order-number.php:252
+msgid "( Premium Feature )"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:162
+msgid "(Premium Feature)"
+msgstr ""
+
+#: woo-custom-and-sequential-order-number.php:17
+#: includes/classes/class-wcson-init.php:4
+#: includes/classes/class-wcson-order-number.php:5
+#: includes/views/wcson-order-number.php:4
+msgid "Can't load this file directly"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:38
+#: includes/views/wcson-order-number.php:180
+msgid "Description"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:311
+msgid "Documentation"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:170
+msgid "Enter Free Order Number"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:28
+msgid "Enter Order Number"
+msgstr ""
+
+#: includes/classes/class-wcson-init.php:139
+msgid "Error During Saving"
+msgstr ""
+
+#: includes/classes/class-wcson-init.php:138
+msgid "Error While Activate License"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:116
+#: includes/views/wcson-order-number.php:261
+msgid "Examples"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:54
+#: includes/views/wcson-order-number.php:196
+msgid "For Date Format"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:91
+#: includes/views/wcson-order-number.php:236
+msgid "For Example : {number_start_from:100}{increment:10}"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:100
+#: includes/views/wcson-order-number.php:245
+msgid "For Example : {number_start_from:200}{even_number}"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:109
+#: includes/views/wcson-order-number.php:254
+msgid "For Example : {number_start_from:200}{odd_number}"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:97
+#: includes/views/wcson-order-number.php:242
+msgid "For only EVEN order numbers"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:106
+#: includes/views/wcson-order-number.php:251
+msgid "For only ODD order numbers"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:59
+#: includes/views/wcson-order-number.php:201
+msgid "Format"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Generates Custom and Sequential Order Numbers for WooCommerce Store Orders"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:54
+#: includes/views/wcson-order-number.php:196
+msgid "here"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.vjinfotech.com"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:165
+msgid ""
+"If this option has been activated, you can use a different numeration for "
+"your free orders."
+msgstr ""
+
+#: includes/views/wcson-order-number.php:23
+msgid "Manage Order Number"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:54
+#: includes/views/wcson-order-number.php:196
+msgid "Note : please refere"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:90
+#: includes/views/wcson-order-number.php:99
+#: includes/views/wcson-order-number.php:108
+#: includes/views/wcson-order-number.php:235
+#: includes/views/wcson-order-number.php:244
+#: includes/views/wcson-order-number.php:253
+msgid ""
+"Note : work only if {number_start_from:(your chosen number)} variable found "
+"in order number."
+msgstr ""
+
+#: includes/views/wcson-order-number.php:83
+#: includes/views/wcson-order-number.php:226
+msgid "Order Custom Fields."
+msgstr ""
+
+#: includes/views/wcson-order-number.php:54
+#: includes/views/wcson-order-number.php:196
+msgid "Order Date with Date format. YYYY is date Format."
+msgstr ""
+
+#: includes/views/wcson-order-number.php:43
+#: includes/views/wcson-order-number.php:185
+msgid "Order Id"
+msgstr ""
+
+#: includes/classes/class-wcson-init.php:154
+msgid "Order Number"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:121
+#: includes/views/wcson-order-number.php:266
+msgid "Order number"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:88
+#: includes/views/wcson-order-number.php:233
+msgid "Order number Increment by specific value."
+msgstr ""
+
+#: includes/views/wcson-order-number.php:56
+#: includes/views/wcson-order-number.php:198
+msgid "Sample Date Formats"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:120
+#: includes/views/wcson-order-number.php:265
+msgid "Sample format"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:303
+msgid "Save"
+msgstr ""
+
+#: includes/classes/class-wcson-init.php:88
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/class-wcson-order-number.php:410
+msgid "Settings Saved Successfully"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:49
+#: includes/views/wcson-order-number.php:191
+msgid "Start Number From 101"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:311
+msgid "Support"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:24
+msgid "Upgrade To Premium"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:159
+#: includes/views/wcson-order-number.php:164
+msgid "Use different numeration for free orders"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:60
+#: includes/views/wcson-order-number.php:202
+msgid "Value"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:37
+#: includes/views/wcson-order-number.php:179
+msgid "Variable"
+msgstr ""
+
+#: includes/views/wcson-order-number.php:33
+#: includes/views/wcson-order-number.php:175
+msgid "Variables"
+msgstr ""
+
+#. Author of the plugin
+msgid "VJInfotech"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woo Custom and Sequential Order Number"
+msgstr ""
